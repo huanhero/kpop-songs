@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "groups": [
+    {
+      "id": "example-group",
+      "name": "Example Group (replace me)",
+      "color": "#ec4899",
+      "albums": [
+        {
+          "id": "first-album",
+          "title": "First Album",
+          "year": "2026",
+          "cover": "",
+          "songs": [
+            {
+              "id": "practice-song",
+              "title": "Practice Song",
+              "romanisation": [
+                "haneure byeori bitnayo",
+                "neowa hamkke georeogallae",
+                "",
+                "oneul bameun kkeuchi eopseo",
+                "urin gyesok noraehae"
+              ],
+              "english": [
+                "The stars are shining in the sky",
+                "I want to walk on together with you",
+                "",
+                "Tonight has no end",
+                "We keep on singing"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

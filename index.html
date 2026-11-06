@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!--
+    Content Security Policy: GitHub Pages can't send custom HTTP headers,
+    so the policy is declared here. It only allows scripts/styles from this
+    site, images from this site or any https:// URL, data requests only to
+    this site and the MusicBrainz API (for group/album search), and blocks plugins.
+  -->
+  <meta http-equiv="Content-Security-Policy"
+        content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' https: data:; connect-src 'self' https://musicbrainz.org; object-src 'none'; base-uri 'none'; form-action 'none'">
+  <meta name="referrer" content="no-referrer">
+  <title>My K-pop Lyrics</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <header class="topbar">
+    <a href="#/" class="brand">🎤 My K-pop Lyrics</a>
+    <div class="actions">
+      <button id="editToggle" type="button" aria-pressed="false">✏️ Edit</button>
+      <div class="edit-only">
+        <button id="exportBtn" type="button" title="Download all your groups and lyrics as songs.json">⬇️ Export</button>
+        <label class="button" for="importFile" title="Load a songs.json file">⬆️ Import</label>
+        <input type="file" id="importFile" accept="application/json,.json" hidden>
+        <button id="resetBtn" type="button" title="Throw away changes in this browser and reload the published data">↺ Reset</button>
+      </div>
+    </div>
+  </header>
+
+  <p class="edit-banner edit-only">
+    Edit mode is on. Changes save automatically in this browser.
+    To put them on the website for everyone, press <strong>Export</strong> and upload the file as <code>data/songs.json</code> in GitHub.
+  </p>
+
+  <main id="app" aria-live="polite"></main>
+
+  <dialog id="formDialog">
+    <form id="dialogForm"></form>
+  </dialog>
+
+  <div id="toast" role="status"></div>
+</body>
+</html>

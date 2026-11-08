@@ -1,0 +1,25 @@
+# Only needed if you deploy from the command line with `npx wrangler deploy`.
+# Using the Cloudflare dashboard instead? Ignore this file.
+name = "kpop-lyrics-editor"
+main = "worker.js"
+compatibility_date = "2025-09-01"
+workers_dev = true
+
+[vars]
+REPO = "your-username/kpop-lyrics"
+BRANCH = "main"
+ALLOWED_ORIGIN = "https://your-username.github.io"
+EDITOR_USERNAME = "choose-a-username"
+SESSION_VERSION = "1"
+
+# Optional (recommended) guess-blocker. Create with:
+#   npx wrangler kv namespace create LOGIN_LIMITS
+# then paste the id it prints here and remove the # marks:
+# [[kv_namespaces]]
+# binding = "LOGIN_LIMITS"
+# id = "paste-id-here"
+
+# Secrets are NOT written here. Set them with:
+#   npx wrangler secret put EDITOR_PASSWORD_HASH
+#   npx wrangler secret put SESSION_SECRET
+#   npx wrangler secret put GITHUB_TOKEN

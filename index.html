@@ -4,16 +4,30 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <!--
-    Content Security Policy: GitHub Pages can't send custom HTTP headers,
-    so the policy is declared here. It only allows scripts/styles from this
-    site, images from this site or any https:// URL, data requests only to
-    this site and the MusicBrainz API (for group/album search), and blocks plugins.
+    Content Security Policy (CSP): a list of what this page may load or
+    contact. GitHub Pages can't send custom HTTP headers, so it's declared here.
+      script/style  only files from this site (no inline code, no CDNs)
+      img           this site, any https:// picture, and in-browser previews (blob:)
+      connect       data requests only to: this site, GitHub's API (saving),
+                    MusicBrainz (search), Wikidata/Wikimedia (group pictures),
+                    Cover Art Archive + archive.org (album covers)
+      form-action   forms can't send data anywhere
+
+    LOGIN SET-UP: once your Cloudflare Worker exists, put its address in TWO places:
+      1. the edit-server line below, e.g. content="https://kpop-lyrics-editor.yourname.workers.dev"
+      2. the end of connect-src in the policy, e.g. ... https://*.archive.org https://kpop-lyrics-editor.yourname.workers.dev;
+    Leave edit-server empty to use the older "paste a GitHub key" mode instead.
   -->
+  <meta name="edit-server" content="">
   <meta http-equiv="Content-Security-Policy"
-        content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' https: data:; connect-src 'self' https://musicbrainz.org; object-src 'none'; base-uri 'none'; form-action 'none'">
+        content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' https: data: blob:; connect-src 'self' https://api.github.com https://musicbrainz.org https://www.wikidata.org https://commons.wikimedia.org https://upload.wikimedia.org https://coverartarchive.org https://archive.org https://*.archive.org; object-src 'none'; base-uri 'none'; form-action 'none'">
   <meta name="referrer" content="no-referrer">
   <title>My K-pop Lyrics</title>
   <link rel="stylesheet" href="styles.css">
+  <!-- Order matters: app.js runs last and starts everything. -->
+  <script src="musicbrainz.js" defer></script>
+  <script src="images.js" defer></script>
+  <script src="github.js" defer></script>
   <script src="app.js" defer></script>
 </head>
 <body>
@@ -22,18 +36,17 @@
     <div class="actions">
       <button id="editToggle" type="button" aria-pressed="false">✏️ Edit</button>
       <div class="edit-only">
-        <button id="exportBtn" type="button" title="Download all your groups and lyrics as songs.json">⬇️ Export</button>
-        <label class="button" for="importFile" title="Load a songs.json file">⬆️ Import</label>
+        <button id="saveBtn" type="button" title="Save all changes to the GitHub repository">☁️ Save to GitHub</button>
+        <button id="exportBtn" type="button" title="Download a backup copy as songs.json">⬇️ Backup</button>
+        <label class="button" for="importFile" title="Load a songs.json backup">⬆️ Import</label>
         <input type="file" id="importFile" accept="application/json,.json" hidden>
-        <button id="resetBtn" type="button" title="Throw away changes in this browser and reload the published data">↺ Reset</button>
+        <button id="resetBtn" type="button" title="Throw away unsaved changes and load the latest from GitHub">↺ Undo all</button>
+        <button id="ghBtn" type="button" title="GitHub connection settings" aria-label="GitHub settings">⚙️</button>
       </div>
     </div>
   </header>
 
-  <p class="edit-banner edit-only">
-    Edit mode is on. Changes save automatically in this browser.
-    To put them on the website for everyone, press <strong>Export</strong> and upload the file as <code>data/songs.json</code> in GitHub.
-  </p>
+  <p class="edit-banner edit-only" id="syncStatus" role="status"></p>
 
   <main id="app" aria-live="polite"></main>
 

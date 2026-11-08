@@ -2,33 +2,4579 @@
   "version": 1,
   "groups": [
     {
-      "id": "example-group",
-      "name": "Example Group (replace me)",
-      "color": "#ec4899",
+      "id": "2b8042bb28e0",
+      "name": "i‐dle",
+      "color": "#ff00ff",
+      "mbid": "0068ae6c-7156-40f9-a81f-39294af6a549",
+      "image": "images/groups/2b8042bb28e0-a95dc5.webp",
+      "imageCredit": "",
+      "imageSource": "",
       "albums": [
         {
-          "id": "first-album",
-          "title": "First Album",
-          "year": "2026",
-          "cover": "",
+          "id": "53926cd3446f",
+          "title": "I am",
+          "year": "2018",
+          "cover": "images/albums/53926cd3446f-609e25.webp",
+          "mbid": "339da7f1-e728-44fa-9837-36f76ff64598",
           "songs": [
             {
-              "id": "practice-song",
-              "title": "Practice Song",
-              "romanisation": [
-                "haneure byeori bitnayo",
-                "neowa hamkke georeogallae",
-                "",
-                "oneul bameun kkeuchi eopseo",
-                "urin gyesok noraehae"
-              ],
+              "id": "9cab3bfce0e5",
+              "title": "LATATA",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "56401be175f8",
+              "title": "달라($$$)",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "d86980ab6228",
+              "title": "MAZE",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "25143098f165",
+              "title": "DON’T TEXT ME",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "67d6be76c69a",
+              "title": "알고 싶어",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "387c47e3b8cd",
+              "title": "들어줘요",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        },
+        {
+          "id": "c823b963841b",
+          "title": "I made",
+          "year": "2019",
+          "cover": "images/albums/c823b963841b-d3419c.webp",
+          "mbid": "fd75fe5a-f853-4839-aeab-0f3008d03676",
+          "songs": [
+            {
+              "id": "d2b45a36a9ce",
+              "title": "Senorita",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "e2c28e996444",
+              "title": "What’s Your Name",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "2d49135f9cda",
+              "title": "싫다고 말해",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "9d1899fb1491",
+              "title": "주세요",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "bf96e623dca6",
+              "title": "Blow Your Mind",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        },
+        {
+          "id": "69c7e56e79d7",
+          "title": "I trust",
+          "year": "2020",
+          "cover": "images/albums/69c7e56e79d7-5162bd.webp",
+          "mbid": "e1853ec9-57b6-4528-a522-f5728d25ee47",
+          "songs": [
+            {
+              "id": "454069a08a3b",
+              "title": "Oh my god",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "e13b3a56da50",
+              "title": "사랑해",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "b9018abfd6dc",
+              "title": "Maybe",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "f1dd91afa429",
+              "title": "LION",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "4f0fa3f07154",
+              "title": "Oh my god (English ver.)",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        },
+        {
+          "id": "566812d333c4",
+          "title": "Oh my god",
+          "year": "2020",
+          "cover": "images/albums/566812d333c4-46f3ad.webp",
+          "mbid": "db3455a5-c761-4cef-9d05-2ba7f5010c98",
+          "songs": [
+            {
+              "id": "70f7f6e1f455",
+              "title": "Oh my god (Japanese ver.)",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "5da888364d59",
+              "title": "Uh-Oh (Japanese ver.)",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "b363ad58c105",
+              "title": "Senorita (Japanese ver.)",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "dd51ac8f68a8",
+              "title": "Tung-Tung (Empty)",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "eafc398647b7",
+              "title": "DUMDi DUMDi (Japanese ver.)",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        },
+        {
+          "id": "180aa91c6cf2",
+          "title": "I burn",
+          "year": "2021",
+          "cover": "images/albums/180aa91c6cf2-4a1912.webp",
+          "mbid": "9e54b383-0428-4acb-b5e6-8e051d02fa75",
+          "songs": [
+            {
+              "id": "3bd57d2e5e3e",
+              "title": "한(寒)",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "2225fc6a5289",
+              "title": "화(火花)",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "ebb146d0dec7",
+              "title": "MOON",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "552a9a113bc5",
+              "title": "Where is love",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "0268df360233",
+              "title": "LOST",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "c46095f3944a",
+              "title": "DAHLIA",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        },
+        {
+          "id": "d892b756b12d",
+          "title": "I NEVER DIE",
+          "year": "2022",
+          "cover": "images/albums/d892b756b12d-3ed0b8.webp",
+          "mbid": "f2ce706f-f28d-4062-95f8-f0104efcea2e",
+          "songs": [
+            {
+              "id": "7eae8dad1121",
+              "title": "TOMBOY",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "ba75663516cf",
+              "title": "말리지 마",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "7d0a4959ab1b",
+              "title": "VILLAIN DIES",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "bbbd0c31c828",
+              "title": "ALREADY",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "29d4b6b1ea97",
+              "title": "POLAROID",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "66b0ea7b199b",
+              "title": "ESCAPE",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "873b293226a8",
+              "title": "LIAR",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "4ef953b8869b",
+              "title": "MY BAG",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "8a035ea8bd5d",
+              "title": "TOMBOY",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        },
+        {
+          "id": "33ada9801775",
+          "title": "I love",
+          "year": "2022",
+          "cover": "images/albums/33ada9801775-08f2ce.webp",
+          "mbid": "5cae6816-c82e-4ae5-8bad-192066284836",
+          "songs": [
+            {
+              "id": "a2afef10c3e7",
+              "title": "Nxde",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "ad6e860486a7",
+              "title": "LOVE",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "e58febc87682",
+              "title": "Change",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "51c0aa285ecd",
+              "title": "Reset",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "800c6baccc75",
+              "title": "조각품",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "a8a2c4693fc8",
+              "title": "DARK (X‐file)",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        },
+        {
+          "id": "37304e5d8f74",
+          "title": "I feel",
+          "year": "2023",
+          "cover": "images/albums/37304e5d8f74-dadcc6.webp",
+          "mbid": "e988de57-e00e-4dae-91d8-d147bf18e70a",
+          "songs": [
+            {
+              "id": "5248f5607102",
+              "title": "퀸카 (Queencard)",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "6bdd9ab9b2a6",
+              "title": "Allergy",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "07996efe9764",
+              "title": "Lucid",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "0e2de7fb0168",
+              "title": "All Night",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "e9ef2b8ae1bb",
+              "title": "Paradise",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "3b797b1ae663",
+              "title": "어린 어른",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        },
+        {
+          "id": "5910b742ebe0",
+          "title": "HEAT",
+          "year": "2023",
+          "cover": "images/albums/5910b742ebe0-586770.webp",
+          "mbid": "5359766c-801e-4075-8553-09cac24f65fd",
+          "songs": [
+            {
+              "id": "669fc83d16ae",
+              "title": "I DO",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "e40160701903",
+              "title": "I Want That",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "05bfb66860d2",
+              "title": "Eyes Roll",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "36310b7bbb68",
+              "title": "Flip It",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "a973b8818275",
+              "title": "Tall Trees",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        },
+        {
+          "id": "1655407a8614",
+          "title": "2",
+          "year": "2024",
+          "cover": "images/albums/1655407a8614-0114f7.webp",
+          "mbid": "871503b4-da86-4c80-8371-58f6888f03a2",
+          "songs": [
+            {
+              "id": "01117d227683",
+              "title": "Super Lady",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "26291b585d9d",
+              "title": "Revenge",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "c659d1094c28",
+              "title": "Doll",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "cc1628548827",
+              "title": "Vision",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "6395472c3546",
+              "title": "7Days",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "7b6773090323",
+              "title": "나는 아픈 건 딱 질색이니까",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "f8395aad2135",
+              "title": "Rollie",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "d3f03897c40e",
+              "title": "Wife",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        },
+        {
+          "id": "8d920e925bc2",
+          "title": "I SWAY",
+          "year": "2024",
+          "cover": "images/albums/8d920e925bc2-42b9ce.webp",
+          "mbid": "1bfb866b-a0c9-4d62-aa0f-3975e08e8c38",
+          "songs": [
+            {
+              "id": "e142b06aecd1",
+              "title": "클락션 (Klaxon)",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "06dbc6f6d4fb",
+              "title": "Last Forever",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "5e39b18823c0",
+              "title": "Bloom",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "897ead039a30",
+              "title": "Neverland",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        },
+        {
+          "id": "eae264493400",
+          "title": "We are",
+          "year": "2025",
+          "cover": "images/albums/eae264493400-dd8c47.webp",
+          "mbid": "85b4143a-d444-485c-b777-0ffd5076eba4",
+          "songs": [
+            {
+              "id": "e4ca64c5d816",
+              "title": "Good Thing",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "9793495eada8",
+              "title": "Girlfriend",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "d65b73baab41",
+              "title": "Love Tease",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "9da40853d65d",
+              "title": "Chain",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "ced80ccbe2d3",
+              "title": "Unstoppable",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "e76738d21927",
+              "title": "그래도 돼요",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        },
+        {
+          "id": "71da8a926304",
+          "title": "i‐dle",
+          "year": "2025",
+          "cover": "images/albums/71da8a926304-4d791e.webp",
+          "mbid": "91518b35-2567-4b2d-95f9-135361183fe5",
+          "songs": [
+            {
+              "id": "eeb1ce297358",
+              "title": "どうしよっかな",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "2a25c2f34434",
+              "title": "Invincible",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "545e02653f94",
+              "title": "愛せなかった世界へ永遠にじゃあね",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "b8a41faabf42",
+              "title": "傷つくのは嫌いだから",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "ab2fcdc6d434",
+              "title": "Queencard (Japanese ver.)",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        },
+        {
+          "id": "d4b7777f096c",
+          "title": "We made",
+          "year": "2026",
+          "cover": "images/albums/d4b7777f096c-cb8fb4.webp",
+          "mbid": "f2bb7374-1953-48b0-94d8-87a5f64a6b51",
+          "songs": [
+            {
+              "id": "e4c33d7ff741",
+              "title": "Mono",
+              "romanisation": [],
               "english": [
-                "The stars are shining in the sky",
-                "I want to walk on together with you",
+                "Ooh-ooh",
+                "Mm, ah, ooh",
                 "",
-                "Tonight has no end",
-                "We keep on singing"
+                "What they play, that all don't matter",
+                "You're the beat that's breaking through",
+                "It's the meaning that hits louder",
+                "We're 'bouta tune in to you",
+                "Don't let the noise get in your way",
+                "You're the rhythm they can't replace",
+                "이제는 머린 뮤트해 심장 박동 노래해",
+                "(Now mute the mind, sing the heartbeat)",
+                "",
+                "You're from the right, or from the left",
+                "Whether East or West, whether straight or gay",
+                "Every day and night, dance to your real vibe",
+                "Turn the effects down, let it all fade out",
+                "Play the whole world in mono",
+                "",
+                "La-la-la-la-la-da",
+                "La-la-la-la-la-la-la-la",
+                "La-la-la-la-la-da",
+                "'Cause love is louder in mono",
+                "La-la-la-la-la-da",
+                "La-la-la-la-la",
+                "La-la-la-la-la-la-da-la",
+                "",
+                "Turn the music up (music up)",
+                "Let my rhythm play loud",
+                "Love and dance in my house (house)",
+                "Baby, we could take the party outside to everyone",
+                "Take a chance on me, you dance just like everyone else",
+                "And I know you think just like myself",
+                "",
+                "You're from the right or from the left",
+                "Whether East or West, whether straight or gay",
+                "Every day and night, dance to your real vibe",
+                "Turn the effects down, let it all fade out",
+                "Play the whole world in mono",
+                "",
+                "La-la-la-la-la-da",
+                "La-la-la-la-la-la-la-la",
+                "La-la-la-la-la-da",
+                "'Cause love is louder in mono",
+                "La-la-la-la-la-da",
+                "La-la-la-la-la",
+                "La-la-la-la-la-la-da-la",
+                "'Cause love is louder in mono",
+                "",
+                "We blame, forget, regret, but who do you hear?",
+                "The lyrics couldn't reach you",
+                "We blame, forget, regret, let's turn it all off",
+                "You know you're born to love",
+                "",
+                "So how do y'all identify? (La-la-la-la-la-la-da)",
+                "I identify she-her (la-la-la-la-la-la-la-la-la)",
+                "I identify as he-him (la-la-la-la-la-la-da)",
+                "I don't personally know them theys but I mean (la-la-la-la-la-la-da)",
+                "I think it's important to just be yourself (la-la-la-la-la-la)",
+                "For sure, when your love yourself, you can love everyone",
+                "",
+                "You're from the right (the right) or from the left (or from the left)",
+                "Whether East or West (ah, ah), whether straight or gay",
+                "Every day and night (night), dance to your real vibe",
+                "Turn the effects down (ah, ah)",
+                "Let it all fade out",
+                "Play the whole world in mon"
               ]
+            },
+            {
+              "id": "5c3806d74d48",
+              "title": "Gimme Dat Love",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "e2158ea6e7ec",
+              "title": "Morning",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "537d00d4886a",
+              "title": "Crow",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "fb139009e7c9",
+              "title": "Love Is Pain",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        },
+        {
+          "id": "367c4c8a8f7b",
+          "title": "달려! (Relay)",
+          "year": "2018",
+          "cover": "images/albums/367c4c8a8f7b-eeb373.webp",
+          "mbid": "e9e2b094-c5e7-44c7-9313-87540ea819c3",
+          "songs": [
+            {
+              "id": "24a37bbf7437",
+              "title": "달려! (Relay) (애니메이션 '런닝맨 시즌2' 엔딩곡)",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "b5c3c328c123",
+              "title": "달려! (Relay) (inst.)",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        },
+        {
+          "id": "ffa7bc48c7d0",
+          "title": "그녀의 사생활 OST Part 1",
+          "year": "2019",
+          "cover": "images/albums/ffa7bc48c7d0-6576dd.webp",
+          "mbid": "c670a4e7-3965-4f2d-aff1-41452c461501",
+          "songs": [
+            {
+              "id": "fd744fcaac59",
+              "title": "Help Me",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "104bf52c5f75",
+              "title": "Help Me (inst.)",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        },
+        {
+          "id": "8aedfb7e6bc1",
+          "title": "Abracadabra",
+          "year": "2024",
+          "cover": "images/albums/8aedfb7e6bc1-0e0503.webp",
+          "mbid": "e0d9f47a-ec1a-4524-9bbb-ec7eb5a8891a",
+          "songs": [
+            {
+              "id": "c7d837087f89",
+              "title": "Abracadabra",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "dd66077e462f",
+              "title": "Abracadabra (inst.)",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        },
+        {
+          "id": "0383e8a2fbb3",
+          "title": "We are i-dle",
+          "year": "2025",
+          "cover": "images/albums/0383e8a2fbb3-bf5597.webp",
+          "mbid": "a7af6fe4-e22f-4779-b7be-34d6ad3adb66",
+          "songs": [
+            {
+              "id": "b0bdac8a3457",
+              "title": "LATATA (i-dle ver.)",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "4635d02ed051",
+              "title": "한 (i-dle ver.)",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "8a8e76b2a370",
+              "title": "Senorita (i-dle ver.)",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "ce1042df4cd5",
+              "title": "Uh-Oh (i-dle ver.)",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "15258b40e10b",
+              "title": "Oh my god (i-dle ver.)",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "2e207fc3393c",
+              "title": "LION (i-dle ver.)",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "cb80b6e975d4",
+              "title": "i'M THE TREND (i-dle ver.)",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "2629edd2593d",
+              "title": "덤디덤디 (i-dle ver.)",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "c47bf2350a0c",
+              "title": "화 (i-dle ver.)",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        },
+        {
+          "id": "e6787fec69f0",
+          "title": "HIDE AND SEEK",
+          "year": "2026",
+          "cover": "images/albums/e6787fec69f0-4aeb96.webp",
+          "mbid": "273a441b-0687-42df-bd34-5517f01503df",
+          "songs": [
+            {
+              "id": "daffd7be6fbe",
+              "title": "HIDE AND SEEK",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4c6cfe036c97",
+      "name": "Stray Kids",
+      "color": "#06b6d4",
+      "mbid": "142b343d-bf5a-428c-a64f-6d1a7566bbe9",
+      "image": "images/groups/4c6cfe036c97-b9f670.webp",
+      "imageCredit": "",
+      "imageSource": "",
+      "albums": [
+        {
+          "id": "0ab32254a70e",
+          "title": "I am NOT",
+          "year": "2018",
+          "cover": "images/albums/0ab32254a70e-8eec2d.webp",
+          "mbid": "be452563-ede0-470c-9694-35dfe6107edd",
+          "songs": [
+            {
+              "id": "5e185ccb3838",
+              "title": "NOT!",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "0c206e82a3aa",
+              "title": "District 9",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "6ff46e0bd3f5",
+              "title": "Mirror",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "a289b9a9718a",
+              "title": "Awaken",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "e66ebc642329",
+              "title": "ROCK (돌)",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "3b346b43a0b4",
+              "title": "잘 하고 있어",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "056103a77a82",
+              "title": "3rd Eye",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "d5aef3a5a799",
+              "title": "MIXTAPE#1",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        },
+        {
+          "id": "acd7ef1ea5f5",
+          "title": "I am WHO",
+          "year": "2018",
+          "cover": "images/albums/acd7ef1ea5f5-a7219c.webp",
+          "mbid": "7c7b66b0-ae09-48e4-81ef-b9f768b0e2b4",
+          "songs": [
+            {
+              "id": "a1d83019410a",
+              "title": "WHO?",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "c97197bab4c6",
+              "title": "My Pace",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "7d1f9b2a95ab",
+              "title": "Voices",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "685a6149ba35",
+              "title": "Question",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "687ebe385f2f",
+              "title": "불면증",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "42a3fbff6d52",
+              "title": "M.I.A.",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "61d9b26dc062",
+              "title": "갑자기 분위기 싸해질 필요 없잖아요",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "8c45f6ecbe75",
+              "title": "MIXTAPE#2",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        },
+        {
+          "id": "1d109b2e9cdb",
+          "title": "I am YOU",
+          "year": "2018",
+          "cover": "images/albums/1d109b2e9cdb-a0690e.webp",
+          "mbid": "a815fc7d-aa83-4267-a135-dd68210f296c",
+          "songs": [
+            {
+              "id": "82b76fc8394a",
+              "title": "YOU.",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "fa4964d06c81",
+              "title": "I am YOU",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "609c29ca35b1",
+              "title": "편",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "c179a92315af",
+              "title": "해장국",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "79c84702911e",
+              "title": "Get Cool",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "79d70735d847",
+              "title": "극과 극",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "e7e4f10696f3",
+              "title": "0325",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        },
+        {
+          "id": "8bffa0943a17",
+          "title": "Clé 1 : MIROH",
+          "year": "2019",
+          "cover": "images/albums/8bffa0943a17-5494b4.webp",
+          "mbid": "2e00dae4-6343-4108-aeae-d90a71aa973f",
+          "songs": [
+            {
+              "id": "c20abf6f029c",
+              "title": "Entrance",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "e44bcd7717ef",
+              "title": "MIROH",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "4a1ffd53a229",
+              "title": "승전가",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "8b8a74d08f7d",
+              "title": "잠깐의 고요",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "f311ee24c7c8",
+              "title": "Boxer",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "4436d4b7c101",
+              "title": "Chronosaurus",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "0d353644d934",
+              "title": "19",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "3c92911a732a",
+              "title": "Mixtape #4",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        },
+        {
+          "id": "0b5fd0c4744a",
+          "title": "Clé : LEVANTER",
+          "year": "2019",
+          "cover": "images/albums/0b5fd0c4744a-3eb792.webp",
+          "mbid": "2f398df5-a88d-4dab-8f08-3d888d5025c1",
+          "songs": [
+            {
+              "id": "b6ea8b601dbb",
+              "title": "STOP",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "7f467def9db9",
+              "title": "Double Knot",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "1159477ced03",
+              "title": "바람 (Levanter)",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "adcf7a30f03f",
+              "title": "Booster",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "aaff4a07f6ee",
+              "title": "Astronaut",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "6950885bb25b",
+              "title": "Sunshine",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "bc7fd82dd609",
+              "title": "You Can STAY",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "a96a82d2e5da",
+              "title": "MIXTAPE #5",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        },
+        {
+          "id": "0627c74a3f55",
+          "title": "GO生",
+          "year": "2020",
+          "cover": "images/albums/0627c74a3f55-f48a09.webp",
+          "mbid": "216ffd78-75ed-48f0-93b1-712d06153020",
+          "songs": [
+            {
+              "id": "9b7564c69ee9",
+              "title": "GO生",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "b36f4b56ff67",
+              "title": "神메뉴",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "0cd1ff45141b",
+              "title": "EASY",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "1bdc061c1cd2",
+              "title": "PACEMAKER",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "0a099c03ed0b",
+              "title": "비행기",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "62ab9bec36e4",
+              "title": "일상",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "2bac15d9a076",
+              "title": "PHOBIA",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "0aab0ef0b454",
+              "title": "청사진",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "5386a5d36610",
+              "title": "타",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "82700b35dee6",
+              "title": "HAVEN",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "fa55679c7876",
+              "title": "TOP",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "ccaf0722c4ff",
+              "title": "SLUMP",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "76adf585f2de",
+              "title": "GONE DAYS",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "32c93f075b99",
+              "title": "바보라도 알아",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        },
+        {
+          "id": "1810930610e1",
+          "title": "ALL IN",
+          "year": "2020",
+          "cover": "images/albums/1810930610e1-d6c191.webp",
+          "mbid": "35254504-e4ea-4ed3-9280-4b0e6f96f909",
+          "songs": [
+            {
+              "id": "993f424c4a6a",
+              "title": "ALL IN",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "5092497ecce1",
+              "title": "FAM",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "8b24ad0d8f4e",
+              "title": "One Day",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "c98a21bbd0ad",
+              "title": "God's Menu -Japanese ver.-",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "d0dc41892cef",
+              "title": "Back Door -Japanese ver.-",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "d3bb397a8821",
+              "title": "TOP -Japanese ver.-",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "22205d65eae0",
+              "title": "SLUMP -Japanese ver.-",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        },
+        {
+          "id": "c81f664e5d0f",
+          "title": "NOEASY",
+          "year": "2021",
+          "cover": "images/albums/c81f664e5d0f-807796.webp",
+          "mbid": "dc8b1089-fcdb-4d4a-9a41-ac37d8a03ce7",
+          "songs": [
+            {
+              "id": "d017b87783a5",
+              "title": "CHEESE",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "d1b81091a276",
+              "title": "소리꾼 (Thunderous)",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "c75f97e02e19",
+              "title": "DOMINO",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "eee1ddba5546",
+              "title": "씩 (SSICK)",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "7b2202be60e1",
+              "title": "The View",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "578416829048",
+              "title": "좋아해서 미안 (Sorry, I Love You)",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "ad92e325fe9d",
+              "title": "Silent Cry",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "361b3b20f641",
+              "title": "말할 수 없는 비밀 (Secret Secret)",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "858befe713a7",
+              "title": "Star Lost",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "84266d720b70",
+              "title": "강박 (Red Lights)",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "73a7a7962683",
+              "title": "Surfin'",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "d6f6b1b74a39",
+              "title": "Gone Away",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "2e06ab9da038",
+              "title": "WOLFGANG",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "b357464994d2",
+              "title": "애 (Mixtape: OH)",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        },
+        {
+          "id": "580302cb7af1",
+          "title": "Christmas EveL",
+          "year": "2021",
+          "cover": "images/albums/580302cb7af1-f69ef1.webp",
+          "mbid": "62812a62-f532-490a-9b52-1feccb3fdaba",
+          "songs": [
+            {
+              "id": "3abde9fc413d",
+              "title": "Christmas EveL",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "573ee90a8bf3",
+              "title": "24 to 25",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "016bd9b82d81",
+              "title": "Winter Falls",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "1e5f82bd747a",
+              "title": "DOMINO (English ver.)",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        },
+        {
+          "id": "a96f3d8f843b",
+          "title": "ODDINARY",
+          "year": "2022",
+          "cover": "images/albums/a96f3d8f843b-8819e1.webp",
+          "mbid": "4e2d0346-724c-45b1-896e-4b17b541ce27",
+          "songs": [
+            {
+              "id": "9b3afea8970d",
+              "title": "거미줄 (VENOM)",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "76fef76036a3",
+              "title": "MANIAC",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "f69350ac800f",
+              "title": "Charmer",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "438688e67ca7",
+              "title": "땡 (FREEZE)",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "6e99e0a32b59",
+              "title": "Lonely St.",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "04bf762228bf",
+              "title": "Waiting For Us",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "d6311d78655d",
+              "title": "Muddy Water",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        },
+        {
+          "id": "4ca18d0a19e5",
+          "title": "CIRCUS",
+          "year": "2022",
+          "cover": "images/albums/4ca18d0a19e5-e63ead.webp",
+          "mbid": "441435c4-cd3b-4621-828a-b1ad95e9dd4f",
+          "songs": [
+            {
+              "id": "cd8f151e3c6b",
+              "title": "CIRCUS",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "a53f552e3095",
+              "title": "Fairytale",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "2bb567b6587f",
+              "title": "蜘蛛の糸 (VENOM) -Japanese ver.-",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "52bf31893cdc",
+              "title": "MANIAC -Japanese ver.-",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "a94e9ad8f70d",
+              "title": "Silent Cry -Japanese ver.-",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "1a433b10214c",
+              "title": "Your Eyes",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        },
+        {
+          "id": "a73f8aff833a",
+          "title": "MAXIDENT",
+          "year": "2022",
+          "cover": "images/albums/a73f8aff833a-7f4319.webp",
+          "mbid": "d5b40a5b-125f-4e2d-926d-746dbc6a2257",
+          "songs": [
+            {
+              "id": "c421355873fd",
+              "title": "CASE 143",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "88ccd4650442",
+              "title": "식혀",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "1c3f17c0d6ba",
+              "title": "Give Me Your TMI",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "4a15bffc7333",
+              "title": "SUPER BOARD",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "1682d47e074b",
+              "title": "3RACHA",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "4178ae37fa90",
+              "title": "TASTE",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "d5d3b4bdaf99",
+              "title": "나 너 좋아하나봐",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "290a4d029875",
+              "title": "CIRCUS (Korean Ver.)",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        },
+        {
+          "id": "84962c9afd86",
+          "title": "THE SOUND",
+          "year": "2023",
+          "cover": "images/albums/84962c9afd86-90561c.webp",
+          "mbid": "498d6e37-11ca-4f3d-828a-f20cc0451725",
+          "songs": [
+            {
+              "id": "8bf53d7cf912",
+              "title": "THE SOUND",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "643d7757ae6c",
+              "title": "Battle Ground",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "1b679afd8476",
+              "title": "Lost Me",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "f7ef15e0a521",
+              "title": "DLMLU",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "db8ef0bd1461",
+              "title": "Novel",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "077dc380b2ae",
+              "title": "CASE 143 (Japanese ver.)",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "b1d15cc36d4f",
+              "title": "CHILL (Japanese ver.)",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "43c67ad88f36",
+              "title": "Scars",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "9c71d34d84bd",
+              "title": "ソリクン (Japanese ver.)",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "1405c8247758",
+              "title": "There",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        },
+        {
+          "id": "bd2b79c2bd16",
+          "title": "★★★★★",
+          "year": "2023",
+          "cover": "images/albums/bd2b79c2bd16-869c38.webp",
+          "mbid": "44419f5b-2816-4cbb-a380-954f54f0751d",
+          "songs": [
+            {
+              "id": "653a4de7c08e",
+              "title": "위인전 (Hall of Fame)",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "5c7fc35aa3f2",
+              "title": "특 (S-Class)",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "d58606618844",
+              "title": "ITEM",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "646eaf0182e6",
+              "title": "Super Bowl",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "5afbf02555df",
+              "title": "TOPLINE",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "608d86a0c18d",
+              "title": "DLC",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "7fd2d4de22bb",
+              "title": "죽어보자 (GET LIT)",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "1439b117f9e6",
+              "title": "충돌 (Collision)",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "d466f7edac8c",
+              "title": "FNF",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "d169eff92dc8",
+              "title": "Youtiful",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "30dc99748b7d",
+              "title": "THE SOUND (Korean Ver.)",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "99fb967477f7",
+              "title": "Mixtape: Time Out",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        },
+        {
+          "id": "6e4b44399cbf",
+          "title": "Social Path / Super Bowl -Japanese ver.-",
+          "year": "2023",
+          "cover": "images/albums/6e4b44399cbf-c4478d.webp",
+          "mbid": "e248dce6-bef8-4d1f-a6d8-164de112151f",
+          "songs": [
+            {
+              "id": "8e1aa807168f",
+              "title": "Social Path",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "eae4ace6b587",
+              "title": "Super Bowl -Japanese ver.-",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "bf31ad08a518",
+              "title": "Butterflies",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "38f351b5a2a2",
+              "title": "Social Path (instrumental)",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "f93a8d95606c",
+              "title": "Butterflies (instrumental)",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        },
+        {
+          "id": "904e105def6e",
+          "title": "樂-STAR",
+          "year": "2023",
+          "cover": "images/albums/904e105def6e-5c4ed6.webp",
+          "mbid": "c1f6370d-be77-49d3-8ece-b93088bc6b8f",
+          "songs": [
+            {
+              "id": "9110f4a50268",
+              "title": "MEGAVERSE",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "3701d81e0f4d",
+              "title": "락 (樂) (LALALALA)",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "17d33c5f5a0f",
+              "title": "사각지대 (BLIND SPOT)",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "c37e73f22d4a",
+              "title": "COMFLEX",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "da14cf1a870d",
+              "title": "가려줘 (Cover Me)",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "1af0c65a69b1",
+              "title": "Leave",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "41cc179ceb79",
+              "title": "SOCIAL PATH (Korean ver.)",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "d09eaaa85b24",
+              "title": "락 (樂) (LALALALA) (Rock ver.)",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        },
+        {
+          "id": "1bd809bd9fa4",
+          "title": "ATE",
+          "year": "2024",
+          "cover": "images/albums/1bd809bd9fa4-a63cbb.webp",
+          "mbid": "350ea536-dbf2-437d-913f-40040a3932ab",
+          "songs": [
+            {
+              "id": "8201bb2f01f7",
+              "title": "MOUNTAINS",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "1c09cac42f69",
+              "title": "Chk Chk Boom",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "565619a12eea",
+              "title": "JJAM",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "4985d73d53db",
+              "title": "I Like It",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "cc7005ad6633",
+              "title": "Runners",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "4464dd76cf05",
+              "title": "또 다시 밤",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "96052af4350b",
+              "title": "Stray Kids",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "e3daa60e48e8",
+              "title": "Chk Chk Boom (Festival ver.)",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        },
+        {
+          "id": "e158e7a9c874",
+          "title": "GIANT",
+          "year": "2024",
+          "cover": "images/albums/e158e7a9c874-7724fc.webp",
+          "mbid": "4b673922-02df-4e60-93a9-c441b55cb80e",
+          "songs": [
+            {
+              "id": "372045aa514a",
+              "title": "GIANT",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "9f74ba3de83b",
+              "title": "Chk Chk Boom -Japanese ver.-",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "31338aa60f8b",
+              "title": "NIGHT",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "577694b8681b",
+              "title": "Falling Up",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "f7b20c0292cb",
+              "title": "WHY?",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "ea2557878187",
+              "title": "Saiyan",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "2cac4477fdc6",
+              "title": "love is painful",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "f372fa3554d2",
+              "title": "Christmas Love",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "8c1dcfd12630",
+              "title": "NIGHT (English ver.)",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "5f98cca1b4f5",
+              "title": "Falling Up (English ver.)",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        },
+        {
+          "id": "0a6663ca5664",
+          "title": "Hollow",
+          "year": "2025",
+          "cover": "images/albums/0a6663ca5664-610657.webp",
+          "mbid": "2d4d54d8-5fcf-46b2-98fd-938f35b9146d",
+          "songs": [
+            {
+              "id": "78f662f47ba8",
+              "title": "Hollow",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "e39fa27cb3f3",
+              "title": "Parade",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "86cc6f08268c",
+              "title": "Never Alone",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "f3dfd086cb4c",
+              "title": "just a little",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "7b6f9ef754be",
+              "title": "宿命",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        },
+        {
+          "id": "b400c687669b",
+          "title": "KARMA",
+          "year": "2025",
+          "cover": "images/albums/b400c687669b-3aa877.webp",
+          "mbid": "e2a3d6eb-2011-4f29-9e10-11e2e6f7b3f3",
+          "songs": [
+            {
+              "id": "daaffeda6cac",
+              "title": "삐처리",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "bd0b5ea4907b",
+              "title": "CEREMONY",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "f8342257c306",
+              "title": "CREED",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "155ca328cfe1",
+              "title": "엉망 (MESS)",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "733661a19cbe",
+              "title": "In My Head",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "41bcd3c19e32",
+              "title": "반전 (Half Time)",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "137eae633735",
+              "title": "Phoenix",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "a845fddc025d",
+              "title": "GHOST",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "6780318cbd69",
+              "title": "0801",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "2ebd1990087b",
+              "title": "CEREMONY (Festival version)",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "d126b97070ea",
+              "title": "CEREMONY (English version)",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        },
+        {
+          "id": "78a732005d8c",
+          "title": "THIS & THAT",
+          "year": "2026",
+          "cover": "images/albums/78a732005d8c-9d0746.webp",
+          "mbid": "358208ef-eb2b-4bc5-9b65-5c8069c82c20",
+          "songs": [
+            {
+              "id": "fe0612357a5b",
+              "title": "RUN IT",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "3f6cf0d661e1",
+              "title": "This & That",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "488dddbec5dc",
+              "title": "After You",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "631cb039d8a5",
+              "title": "FARMING",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "775049dd3086",
+              "title": "I Do",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "3c208d36a0f2",
+              "title": "Way Out",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "b0cb27aa7f80",
+              "title": "Back Then",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "a6d36959b42e",
+              "title": "This & That (Festival version)",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        },
+        {
+          "id": "dae27c42e832",
+          "title": "SKZ-REPLAY",
+          "year": "2022",
+          "cover": "images/albums/dae27c42e832-863057.webp",
+          "mbid": "762b06e8-ae15-4621-8026-dac0d988de4c",
+          "songs": [
+            {
+              "id": "b2df191a65b8",
+              "title": "FAM (Korean Ver.)",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "9e430ac70903",
+              "title": "Connected",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "7a3ef552c98d",
+              "title": "나지막이",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "a9af894fb82c",
+              "title": "DOODLE",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "565a8bfbf2dc",
+              "title": "Love Untold",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "f4f43e5e37d0",
+              "title": "RUN",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "d888bc252ebd",
+              "title": "Deep end",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "6e6ecb4e1ee7",
+              "title": "내려요",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "5a57bade1fad",
+              "title": "안아줄게요",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "53317330c3a7",
+              "title": "#LoveSTAY",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        },
+        {
+          "id": "b074c28e13c6",
+          "title": "WHY?",
+          "year": "2024",
+          "cover": "images/albums/b074c28e13c6-d6719c.webp",
+          "mbid": "baa6e3e0-356b-45ef-a978-0cebd2cfade2",
+          "songs": [
+            {
+              "id": "11f921a99dda",
+              "title": "WHY?",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        },
+        {
+          "id": "27a4796af2c1",
+          "title": "Lose My Breath",
+          "year": "2024",
+          "cover": "images/albums/27a4796af2c1-12bfd0.webp",
+          "mbid": "562be122-7314-4aef-a41b-a213f6b484fb",
+          "songs": [
+            {
+              "id": "3c492cadb83d",
+              "title": "Lose My Breath",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "71a331bab256",
+              "title": "Lose My Breath (instrumental)",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        },
+        {
+          "id": "2ff9c6c16354",
+          "title": "SLASH",
+          "year": "2024",
+          "cover": "images/albums/2ff9c6c16354-f4eb2c.webp",
+          "mbid": "261ed8c1-ad66-48b0-a3fa-aa01b8c03b9d",
+          "songs": [
+            {
+              "id": "39459bffc6a1",
+              "title": "SLASH",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        },
+        {
+          "id": "d1b100dffaf0",
+          "title": "合 (HOP)",
+          "year": "2024",
+          "cover": "images/albums/d1b100dffaf0-bce3cf.webp",
+          "mbid": "3b590db0-577c-4581-abff-fa41dffd5537",
+          "songs": [
+            {
+              "id": "902b37d303d6",
+              "title": "Walkin on Water",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "891cd11bc9f6",
+              "title": "Bounce Back",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "1240f2826669",
+              "title": "U",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "1ef9f3fd9efa",
+              "title": "Walkin on Water (HIP ver.)",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "aebbf2cb67f9",
+              "title": "Railway",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "e460dd729190",
+              "title": "Unfair",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "6778c5ee0ed5",
+              "title": "HALLUCINATION",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "3abf81e86030",
+              "title": "Youth",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "385bb974aad5",
+              "title": "So Good",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "b2db96529d83",
+              "title": "ULTRA",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "5ff5e31ffbe3",
+              "title": "Hold my hand",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "f04b8831163b",
+              "title": "그렇게, 천천히, 우리",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        },
+        {
+          "id": "a0e777ce01ce",
+          "title": "Mixtape : dominATE",
+          "year": "2025",
+          "cover": "images/albums/a0e777ce01ce-4d8738.webp",
+          "mbid": "eb0b376e-7cab-43b4-99f9-ce39e78fc13f",
+          "songs": [
+            {
+              "id": "bcb1355a3ef5",
+              "title": "GIANT (Korean ver.)",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "3aa84ea73c02",
+              "title": "Burnin’ Tires",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "caf732d1c093",
+              "title": "Truman",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "02259db80097",
+              "title": "ESCAPE",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "1cf0ff9e5e05",
+              "title": "CINEMA",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        },
+        {
+          "id": "ba8f28113ae9",
+          "title": "In The Dark",
+          "year": "2025",
+          "cover": "images/albums/ba8f28113ae9-24b212.webp",
+          "mbid": "6fc9a1f5-709d-4180-a01a-aa75c35558d4",
+          "songs": [
+            {
+              "id": "30aee60fcb00",
+              "title": "In The Dark",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        },
+        {
+          "id": "d29e9c1046b5",
+          "title": "DO IT",
+          "year": "2025",
+          "cover": "images/albums/d29e9c1046b5-486650.webp",
+          "mbid": "ce29b685-a98d-411e-b68f-78c6b4e963c6",
+          "songs": [
+            {
+              "id": "6e5773516053",
+              "title": "Do It",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "c36586fe032c",
+              "title": "신선놀음",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "007e048fdd0c",
+              "title": "Holiday",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "cea7565b0efd",
+              "title": "Photobook",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "081fc21d1d9f",
+              "title": "Do It (festival version)",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        },
+        {
+          "id": "c5327cb020d3",
+          "title": "Endless Sun",
+          "year": "2026",
+          "cover": "images/albums/c5327cb020d3-5e77d6.webp",
+          "mbid": "4840b7a1-4b5f-4e90-afe6-dc713f7cedb1",
+          "songs": [
+            {
+              "id": "ce41f81a32bd",
+              "title": "Endless Sun",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        },
+        {
+          "id": "8b8e3fb6f295",
+          "title": "SKZ‐REPLAY 2026 Pt.1",
+          "year": "2026",
+          "cover": "images/albums/8b8e3fb6f295-da7b13.webp",
+          "mbid": "f3efc4af-6e09-4ea6-b059-15f3b2852fec",
+          "songs": [
+            {
+              "id": "cfe89b8a5995",
+              "title": "Battle Ground (Korean version)",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "bbfbc5903dbe",
+              "title": "Roman Empire",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "606039e82398",
+              "title": "LOVER",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "eb4902258f85",
+              "title": "Raining stars",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "feb15718e6c8",
+              "title": "The Little Things",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "bd15968020c5",
+              "title": "Goodbye",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "316f090e1b3c",
+              "title": "Still here",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "bc6fd2499ba3",
+              "title": "Into the Current",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "d5307df02ed7",
+              "title": "MIC&BRUSH",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "b8dc3d1ce0ac",
+              "title": "PERFUME",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "41a2e63f0604",
+              "title": "BABY",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "29c14b2e0b9b",
+              "title": "Don’t Say",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "b4bee26799e1",
+              "title": "My Name",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "fd8fa250d095",
+              "title": "REV IT UP",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "51940e423641",
+              "title": "Limbo (live)",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "81934c762246",
+              "title": "Hug Me (live)",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "f84a8ea7c679",
+              "title": "STAY",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        },
+        {
+          "id": "9aca5a30be71",
+          "title": "November 11th",
+          "year": "2026",
+          "cover": "images/albums/9aca5a30be71-e7fce6.webp",
+          "mbid": "824ec724-a9d4-4a1f-9bd6-ded8ff9647be",
+          "songs": [
+            {
+              "id": "d1d740e4255e",
+              "title": "November 11th",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7cf1ffb6f175",
+      "name": "ATEEZ",
+      "color": "#f97316",
+      "mbid": "cf0dbc16-4e24-4957-b5b4-955c8978f690",
+      "image": "images/groups/7cf1ffb6f175-612cab.webp",
+      "imageCredit": "",
+      "imageSource": "",
+      "albums": [
+        {
+          "id": "a0999774c4e9",
+          "title": "TREASURE EP.1 : All to Zero",
+          "year": "2018",
+          "cover": "images/albums/a0999774c4e9-8b2f1e.webp",
+          "mbid": "8d7cb745-644c-409b-bdef-d93cc18ac1e4",
+          "songs": [
+            {
+              "id": "32aaa45da5b2",
+              "title": "Intro: Long Journey",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "0c187917c609",
+              "title": "해적왕",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "c16e36af6d39",
+              "title": "Treasure",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "de0d07f0bf6c",
+              "title": "Twilight",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "5326ed48cf29",
+              "title": "Stay",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "12e7bd54ff05",
+              "title": "My Way",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        },
+        {
+          "id": "d7519f287985",
+          "title": "TREASURE EP.2 : Zero to One",
+          "year": "2019",
+          "cover": "images/albums/d7519f287985-928de6.webp",
+          "mbid": "94e59748-4234-47e9-abb8-4b27d2b9b998",
+          "songs": [
+            {
+              "id": "c5cc04d802a7",
+              "title": "HALA HALA (Hearts Awakened, Live Alive)",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "049323f11842",
+              "title": "Say My Name",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "c266d186bcf4",
+              "title": "Desire",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "8da3be8f59e4",
+              "title": "Light",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "b1488d915eaa",
+              "title": "Promise",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "83bbd973422f",
+              "title": "From",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        },
+        {
+          "id": "64e8d36eef39",
+          "title": "TREASURE EP.3 : One to All",
+          "year": "2019",
+          "cover": "images/albums/64e8d36eef39-2277c8.webp",
+          "mbid": "e0b752e2-1dd5-483f-ac6b-562eafbbe72f",
+          "songs": [
+            {
+              "id": "e1269d540124",
+              "title": "UTOPIA",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "21f76b41ace2",
+              "title": "ILLUSION",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "6fa26b67f3f6",
+              "title": "Crescent",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "784050e860a3",
+              "title": "WAVE",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "052593b9d2cf",
+              "title": "AURORA",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "fc42366ec348",
+              "title": "Dancing Like Butterfly Wings",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        },
+        {
+          "id": "4f3b01ca0b32",
+          "title": "TREASURE EP.FIN : All to Action",
+          "year": "2019",
+          "cover": "images/albums/4f3b01ca0b32-8d2a79.webp",
+          "mbid": "5d817e22-62a9-4537-afd0-e834bdf86ba4",
+          "songs": [
+            {
+              "id": "f287ab0cbb8d",
+              "title": "End of the Beginning",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "b014c731e797",
+              "title": "WONDERLAND",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "c73168c944b0",
+              "title": "Dazzling Light",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "da68f64b0698",
+              "title": "안개",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "79da33049892",
+              "title": "Precious (Overture)",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "d9a853085497",
+              "title": "WIN",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "0b40d7f93713",
+              "title": "If Without You",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "708cf156bbdc",
+              "title": "친구 (THANK U)",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "aa08a1c82cf1",
+              "title": "Sunrise",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "6cfa4d57a271",
+              "title": "걸어가고있어",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "1ec30fe1fd0e",
+              "title": "Beginning of the End",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        },
+        {
+          "id": "c1004f470061",
+          "title": "TREASURE EPILOGUE : Action to Answer",
+          "year": "2020",
+          "cover": "images/albums/c1004f470061-7e00f7.webp",
+          "mbid": "d38d1f54-a70b-4f18-a558-ec1a9c6bad03",
+          "songs": [
+            {
+              "id": "7f041989548d",
+              "title": "Answer",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "f9abd1e6a764",
+              "title": "지평선 (Horizon)",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "0e73485f6092",
+              "title": "Star 1117",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "09a1459dbfd0",
+              "title": "Precious",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "c9ab397fb6db",
+              "title": "Outro : Long Journey",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        },
+        {
+          "id": "3ccbe0c19f36",
+          "title": "TREASURE EP. Map To Answer",
+          "year": "2020",
+          "cover": "images/albums/3ccbe0c19f36-3c9281.webp",
+          "mbid": "d863e0f9-0066-46d3-8147-fffe1940958d",
+          "songs": [
+            {
+              "id": "75f9d95483ec",
+              "title": "Declaration",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "b9b0183166de",
+              "title": "Answer (Japanese ver.)",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "e6a54fec8934",
+              "title": "Better",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "0be548b4e184",
+              "title": "Wonderland (Sean Oh’s Skrt mix)",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "1a076a6e0eed",
+              "title": "Sunrise (Atmospheric mix by Spacecowboy)",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "66cdd25f5c53",
+              "title": "Star 1117 (Buddy’s Melodic mix)",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        },
+        {
+          "id": "9a2208497302",
+          "title": "ZERO : FEVER Part.1",
+          "year": "2020",
+          "cover": "images/albums/9a2208497302-32d71f.webp",
+          "mbid": "b975bf23-b2d8-4978-86d5-f312b502cf58",
+          "songs": [
+            {
+              "id": "fe63fcec41a5",
+              "title": "Dear Diary : 2016.07.29",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "382aad1f33fa",
+              "title": "FEVER",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "8c863c4c44a8",
+              "title": "THANXX",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "b8c536694dc6",
+              "title": "춤을춰 (TO THE BEAT)",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "ab32662f0fb0",
+              "title": "INCEPTION",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "376c1cb9a08c",
+              "title": "Good Lil Boy",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "4b9a7de088da",
+              "title": "One Day At A Time",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        },
+        {
+          "id": "9b1da235f731",
+          "title": "ZERO : FEVER PART 2",
+          "year": "2021",
+          "cover": "images/albums/9b1da235f731-f09875.webp",
+          "mbid": "23d5204e-0915-4f02-84d0-f8185cb673cf",
+          "songs": [
+            {
+              "id": "e456cc7eec10",
+              "title": "불놀이야 (I'm The One)",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "1ab02527b2fd",
+              "title": "선도부 (The Leaders)",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "6306c26815e3",
+              "title": "Time Of Love",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "d53b053b9844",
+              "title": "Take Me Home",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "c7fcd5b7de9e",
+              "title": "Celebrate",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "bd922c884924",
+              "title": "Take Me Home (English ver.)",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "386522af6e58",
+              "title": "I'm The One (HEAT-TOPPING ver.)",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        },
+        {
+          "id": "31a0cdde5031",
+          "title": "Into the A to Z",
+          "year": "2021",
+          "cover": "images/albums/31a0cdde5031-09dfb6.webp",
+          "mbid": "da6a4b2e-573d-49e0-bd52-16cd7dc175d3",
+          "songs": [
+            {
+              "id": "a6accda5d258",
+              "title": "Pirate King",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "9912634dcdb7",
+              "title": "Say My Name",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "7a92c359920b",
+              "title": "UTOPIA",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "41b64de7bbd4",
+              "title": "AURORA",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "b53d9ee10593",
+              "title": "WONDERLAND",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "7b6181d34d27",
+              "title": "Answer",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "57a334ae9e5d",
+              "title": "Better",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "21f592e34ae0",
+              "title": "THANXX",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "6d750952727a",
+              "title": "INCEPTION",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "828c6569fd48",
+              "title": "Still Here",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "64dafdaa60ca",
+              "title": "UTOPIA MUSIC VIDEO",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "bd24257d9d01",
+              "title": "Answer MUSIC VIDEO",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "3094c04ac7b8",
+              "title": "PHOTO SHOOTING MAKING FILM & INTERVIEW",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        },
+        {
+          "id": "e6563a8d1d83",
+          "title": "ZERO : FEVER Part.3",
+          "year": "2021",
+          "cover": "images/albums/e6563a8d1d83-487929.webp",
+          "mbid": "70756e19-0ef0-4753-9e95-0fcd5e1a224e",
+          "songs": [
+            {
+              "id": "f4ea47b4257c",
+              "title": "Eternal Sunshine",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "f95a22f323c6",
+              "title": "Feeling Like I Do",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "fa52c8387519",
+              "title": "Deja Vu",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "f853d0f7c149",
+              "title": "ROCKY",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "c20ff7a41a96",
+              "title": "All About You",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "11cab1dda154",
+              "title": "밤하늘 (Not Too Late)",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        },
+        {
+          "id": "f65de83ed22c",
+          "title": "ZERO : FEVER Epilogue",
+          "year": "2021",
+          "cover": "images/albums/f65de83ed22c-0e512b.webp",
+          "mbid": "471921fc-30b7-4576-ada5-02452fbf21e5",
+          "songs": [
+            {
+              "id": "eafa8e395789",
+              "title": "야간비행 (Turbulence)",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "77ceb6192a99",
+              "title": "Be With You",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "e42dc5e7d0c9",
+              "title": "The Letter",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "09fb3bd4ee35",
+              "title": "Still Here (Korean Ver.)",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "85df77c5cabf",
+              "title": "Better (Korean Ver.)",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "a235bb06179b",
+              "title": "멋 (The Real) (흥 : 興 Ver.)",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "f56396e54f25",
+              "title": "Wave (Overture)",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "0c3a987274a8",
+              "title": "Wonderland (Symphony No.9 \"From The Wonderland\")",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "304dd4faff34",
+              "title": "Answer: Ode to Joy",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "0dbb8899823c",
+              "title": "Outro : Over the Horizon",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        },
+        {
+          "id": "cdb9e5fb72d1",
+          "title": "BEYOND : ZERO",
+          "year": "2022",
+          "cover": "images/albums/cdb9e5fb72d1-6a465d.webp",
+          "mbid": "dc158742-d1c8-40ad-8785-d97255c83258",
+          "songs": [
+            {
+              "id": "2265bc24bd05",
+              "title": "INTRO [BEYOND : ZERO]",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "3d6b16b6ae0f",
+              "title": "Deja Vu (Japanese ver.)",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "8b54137a0ecf",
+              "title": "ROCKY (Boxers ver.)",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "c9eeba1cc8f1",
+              "title": "The King",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "29176ee6ff00",
+              "title": "야간비행 (Turbulence) (Japanese ver.)",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "04950c07bb29",
+              "title": "Take Me Home (Japanese ver.)",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "5ca99e99c13d",
+              "title": "Fireworks (I'm The One) (Japanese ver.)",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        },
+        {
+          "id": "ae4c1a472559",
+          "title": "THE WORLD EP.1 : MOVEMENT",
+          "year": "2022",
+          "cover": "images/albums/ae4c1a472559-05ed01.webp",
+          "mbid": "425cbd93-b435-447d-9d01-fa44c9aebc7e",
+          "songs": [
+            {
+              "id": "bde7e9dee62c",
+              "title": "Propaganda",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "9f80e9e6cb40",
+              "title": "Sector 1",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "9074924ac9a9",
+              "title": "Cyberpunk",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "22e0fd93fc3a",
+              "title": "Guerilla",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "a028bc65d3f8",
+              "title": "The Ring",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "22959cbd5f44",
+              "title": "WIDG (Where Do I Go)",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "c0400d111ed4",
+              "title": "New World",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        },
+        {
+          "id": "3f5a8696db34",
+          "title": "THE WORLD EP.PARADIGM",
+          "year": "2022",
+          "cover": "images/albums/3f5a8696db34-6d9b4e.webp",
+          "mbid": "7d8ba663-7fdb-4dc9-87ab-58f10f067868",
+          "songs": [
+            {
+              "id": "0ab488957320",
+              "title": "Intro : Siren",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "ba01ee82916e",
+              "title": "Paradigm",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "18ad2fdf9f0f",
+              "title": "Cyberpunk (Japanese version)",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "c1ebb6bdcb7c",
+              "title": "Guerrilla (flag version)",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "f38de9d6f2a9",
+              "title": "New World (Japanese version)",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "0154fbb2a2b7",
+              "title": "Outro : Liberty",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        },
+        {
+          "id": "aa903250e163",
+          "title": "THE WORLD EP.2 : OUTLAW",
+          "year": "2023",
+          "cover": "images/albums/aa903250e163-836add.webp",
+          "mbid": "a3f62d57-e119-4d4d-b0ad-273a9c52cbd5",
+          "songs": [
+            {
+              "id": "52b1c04cc9c0",
+              "title": "This World",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "798b78ea3f02",
+              "title": "Dune",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "6711c97cb89d",
+              "title": "BOUNCY (K‐HOT CHILLI PEPPERS)",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "76db98923eda",
+              "title": "DJANGO",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "7bc41bbb1c51",
+              "title": "최면 (Wake Up)",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "508f3d282b1d",
+              "title": "Outlaw",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        },
+        {
+          "id": "98b0bc949621",
+          "title": "THE WORLD EP.FIN : WILL",
+          "year": "2023",
+          "cover": "images/albums/98b0bc949621-2c5553.webp",
+          "mbid": "1af1aa0b-4668-444a-a7d9-4e11c1481ecd",
+          "songs": [
+            {
+              "id": "86e7bba5a063",
+              "title": "WE KNOW",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "a9b8bc76a7c5",
+              "title": "Emergency",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "83cf4d879c27",
+              "title": "미친 폼 (Crazy Form)",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "c77030fa92fb",
+              "title": "ARRIBA",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "7664318f6979",
+              "title": "Silver Light",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "1b20b1e8625d",
+              "title": "Crescent Part. 2",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "87242ad7aa33",
+              "title": "꿈날 (Dreamy Day)",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "005e089814ab",
+              "title": "MATZ",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "a77a600f1f43",
+              "title": "IT's You",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "85fe003f6c89",
+              "title": "Youth",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "aac23a505d86",
+              "title": "Everything",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "95e5cd9e3bc3",
+              "title": "FIN: WILL",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        },
+        {
+          "id": "cdeeea54fae8",
+          "title": "GOLDEN HOUR : Part.1",
+          "year": "2024",
+          "cover": "images/albums/cdeeea54fae8-8a7742.webp",
+          "mbid": "3c5950ce-130c-4af3-b09a-4ed76639499e",
+          "songs": [
+            {
+              "id": "cc2edbe3fd2b",
+              "title": "Golden Hour",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "cb358e7f239c",
+              "title": "Blind",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "1c851cd6a021",
+              "title": "WORK",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "9747c04650eb",
+              "title": "Empty Box",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "2dffcd113b1f",
+              "title": "Shaboom",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "2845321a12fb",
+              "title": "Siren",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        },
+        {
+          "id": "e768fcdd2b9f",
+          "title": "Birthday",
+          "year": "2024",
+          "cover": "images/albums/e768fcdd2b9f-f912f5.webp",
+          "mbid": "840c8853-db27-4132-95de-2bc7a80412a8",
+          "songs": [
+            {
+              "id": "7f6276628c3d",
+              "title": "Birthday",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "67ce30d37c10",
+              "title": "Royal",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "277daa2ef98d",
+              "title": "Forevermore",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "cc5948834f52",
+              "title": "Birthday (instrumental)",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "354774145679",
+              "title": "Royal (instrumental)",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "85bd4ec02218",
+              "title": "Forevermore (instrumental)",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        },
+        {
+          "id": "de44a923feef",
+          "title": "GOLDEN HOUR : Part.2",
+          "year": "2024",
+          "cover": "images/albums/de44a923feef-e167bc.webp",
+          "mbid": "2274e105-2447-4018-85c8-8e61f7e84914",
+          "songs": [
+            {
+              "id": "3a88c720b338",
+              "title": "DEEP DIVE",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "b85fcc1f8c55",
+              "title": "Scene 1 : Value",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "9ab370164611",
+              "title": "Ice on My Teeth",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "e728d2b15d9c",
+              "title": "Man on Fire",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "2b4e680a54fa",
+              "title": "Selfish Waltz",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "57c11c3282f5",
+              "title": "Enough",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        },
+        {
+          "id": "e79d6da6a788",
+          "title": "GOLDEN HOUR : Part.3",
+          "year": "2025",
+          "cover": "images/albums/e79d6da6a788-75088f.webp",
+          "mbid": "3bacae39-4cb9-4cc1-934c-2a08dd0d95ad",
+          "songs": [
+            {
+              "id": "8fb34b18e051",
+              "title": "Lemon Drop",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "ec41bef5a0ac",
+              "title": "Masterpiece",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "ea1d8db5ab7d",
+              "title": "Now this house ain't a home",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "08dacfc475e6",
+              "title": "Castle",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "3dfa7b3ec051",
+              "title": "Bridge : The Edge of Reality",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        },
+        {
+          "id": "98b9423f943d",
+          "title": "Ashes to Light",
+          "year": "2025",
+          "cover": "images/albums/98b9423f943d-0fabe5.webp",
+          "mbid": "e389de13-4f81-4131-ab62-0ac41bbecfe3",
+          "songs": [
+            {
+              "id": "b0b2ae0f8e84",
+              "title": "Ash",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "c8f2d84993a2",
+              "title": "12 Midnight",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "44e485be5d4a",
+              "title": "Tippy Toes",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "c5e013ef034e",
+              "title": "FACE",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "da8e902c3bdd",
+              "title": "Crescendo",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "2d2aa4429cf0",
+              "title": "NOT OKAY",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "88d28366d510",
+              "title": "Days",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "9a45ac5fe9de",
+              "title": "Birthday",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "5f075ede9691",
+              "title": "Forevermore",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        },
+        {
+          "id": "e84a10c2562b",
+          "title": "GOLDEN HOUR : Part.4",
+          "year": "2026",
+          "cover": "images/albums/e84a10c2562b-b7f4de.webp",
+          "mbid": "8072d29d-f779-404e-b5cc-0cc01e442444",
+          "songs": [
+            {
+              "id": "abc879f852b1",
+              "title": "Ghost",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "29aa44382f1f",
+              "title": "Adrenaline",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "0cfc941d8e41",
+              "title": "NASA",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "01e9ae920d7d",
+              "title": "On The Road",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "c43736d9d7c3",
+              "title": "Choose",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        },
+        {
+          "id": "ff72a7ae98e4",
+          "title": "GOLDEN HOUR : Part.5",
+          "year": "2026",
+          "cover": "images/albums/ff72a7ae98e4-8b495f.webp",
+          "mbid": "04059843-93e5-4d50-9604-7dc48ae74fb9",
+          "songs": [
+            {
+              "id": "16b85fa3debd",
+              "title": "BAD",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "3886a04198bb",
+              "title": "MAMACITA",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "9a6299b39191",
+              "title": "TOXIN",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "e3b1655abd6e",
+              "title": "Fallin'",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "4babe502ece6",
+              "title": "Body",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        },
+        {
+          "id": "2c4174b6043e",
+          "title": "BAD (Japanese ver.)",
+          "year": "2026",
+          "cover": "images/albums/2c4174b6043e-06e56e.webp",
+          "mbid": "8ef1910c-f2b5-4cff-ba0f-2db5bee267a7",
+          "songs": [
+            {
+              "id": "05b3c3815fb0",
+              "title": "BAD (Japanese ver.)",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "2b481c276206",
+              "title": "Seeker",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "655978a693a0",
+              "title": "HIGHER",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "6c6cbdc2afdf",
+              "title": "BAD (instrumental)",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "209fd6b68f81",
+              "title": "Seeker (instrumental)",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "b5584087dd3f",
+              "title": "HIGHER (instrumental)",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "083321282d6e",
+      "name": "IVE",
+      "color": "#f97316",
+      "mbid": "b2f2216a-d7a9-4ce0-8b8f-f494d9a8c196",
+      "image": "images/groups/083321282d6e-cb8104.webp",
+      "imageCredit": "",
+      "imageSource": "",
+      "albums": [
+        {
+          "id": "2a163ee45f2a",
+          "title": "ELEVEN",
+          "year": "2021",
+          "cover": "images/albums/2a163ee45f2a-956f86.webp",
+          "mbid": "18271616-7122-4bf6-8fc8-11467cc923c1",
+          "songs": [
+            {
+              "id": "880d470714da",
+              "title": "ELEVEN",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "0aea28dd6196",
+              "title": "Take It",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        },
+        {
+          "id": "894ce2cfa321",
+          "title": "LOVE DIVE",
+          "year": "2022",
+          "cover": "images/albums/894ce2cfa321-eebe70.webp",
+          "mbid": "58e44e7a-8ebb-4f08-9dbb-9b7998a2a483",
+          "songs": [
+            {
+              "id": "73bc586892ab",
+              "title": "LOVE DIVE",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "03075d80a39c",
+              "title": "ROYAL",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        },
+        {
+          "id": "d4c9fcb7d360",
+          "title": "After LIKE",
+          "year": "2022",
+          "cover": "images/albums/d4c9fcb7d360-351499.webp",
+          "mbid": "1c8c9fa5-8b86-4dd1-81cb-b22f8dcd487c",
+          "songs": [
+            {
+              "id": "095ec3970709",
+              "title": "After LIKE",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "11123f759377",
+              "title": "My Satisfaction",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        },
+        {
+          "id": "b10514562b6f",
+          "title": "I’ve IVE",
+          "year": "2023",
+          "cover": "images/albums/b10514562b6f-448aee.webp",
+          "mbid": "4b721f14-89f3-42b1-a1cc-9662a601914e",
+          "songs": [
+            {
+              "id": "67e8e08b47f7",
+              "title": "Blue Blood",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "5e6ee023a6ca",
+              "title": "I AM",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "cb12c8d4c154",
+              "title": "Kitsch",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "f9c855a4f7d0",
+              "title": "Lips",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "a82ce36cfbe8",
+              "title": "Heroine",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "a897bcb67ff2",
+              "title": "Mine",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "ab06c35f3305",
+              "title": "섬찟 (Hypnosis)",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "bf095d25f4e3",
+              "title": "NOT YOUR GIRL",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "c1c40aa7e48a",
+              "title": "궁금해 (Next Page)",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "bd73e36c060e",
+              "title": "Cherish",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "f594a745f3d9",
+              "title": "Shine With Me",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        },
+        {
+          "id": "5c8a0d428500",
+          "title": "WAVE",
+          "year": "2023",
+          "cover": "images/albums/5c8a0d428500-40aaf4.webp",
+          "mbid": "3bc66267-5938-458a-871e-c9b0946c1e33",
+          "songs": [
+            {
+              "id": "24dc5809b774",
+              "title": "WAVE",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "a517558c855a",
+              "title": "Classic",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "b7587c350a09",
+              "title": "After LIKE -Japanese ver.-",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "7645b56ddfa5",
+              "title": "LOVE DIVE -Japanese ver.-",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "319242d95b63",
+              "title": "Take It -Japanese ver.-",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        },
+        {
+          "id": "d95243d596c1",
+          "title": "I WANT",
+          "year": "2023",
+          "cover": "images/albums/d95243d596c1-00b4d8.webp",
+          "mbid": "72f51e2e-0257-41d5-8b5c-5f21c7e338ed",
+          "songs": [
+            {
+              "id": "957f4b7c25b4",
+              "title": "I WANT",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        },
+        {
+          "id": "475a26738fce",
+          "title": "I’VE MINE",
+          "year": "2023",
+          "cover": "images/albums/475a26738fce-e4398a.webp",
+          "mbid": "8fcb93c3-e39c-45fa-87f2-b00e13bf0d24",
+          "songs": [
+            {
+              "id": "8b2b1c93c87f",
+              "title": "Off the Record",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "5a4a16c8208c",
+              "title": "Baddie",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "1cffc4afdc35",
+              "title": "Either Way",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "acf7cf0d94f6",
+              "title": "Holy Moly",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "82f191a495d3",
+              "title": "OTT",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "11ef96c8ea85",
+              "title": "Payback",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        },
+        {
+          "id": "560b4871db91",
+          "title": "All Night",
+          "year": "2024",
+          "cover": "images/albums/560b4871db91-04848c.webp",
+          "mbid": "fcba65e1-0a3b-4903-a13a-7d699249d2d8",
+          "songs": [
+            {
+              "id": "12b338565620",
+              "title": "All Night",
+              "romanisation": [],
+              "english": [
+                "Uh, it's the icy girl and the IVE girls",
+                "",
+                "We always dreamed about this better life, this better life",
+                "We always felt it comin' all along, yeah, all along",
+                "We've got the keys to open paradise, yeah, paradise",
+                "Now let's go walking hand in hand",
+                "",
+                "Come on, baby, we can hit the lights, make the wrongs turn right",
+                "We can smash the clock, make the pop go rock",
+                "With the love this deep, we don't need no sleep",
+                "And it feels like we could do this all night",
+                "",
+                "We could do this all night",
+                "Yeah, everything is alright",
+                "We've got the keys to open paradise, yeah, paradise",
+                "It feels like",
+                "",
+                "We could do this all night",
+                "We could do this all night",
+                "We could do this all night",
+                "",
+                "I been dreamin' 'bout this memory",
+                "Feels like we could do this for centuries",
+                "We're in harmony, follow the melody",
+                "Got me fallin' very deep, with you, I feel clarity",
+                "",
+                "Got me speedin' through the city like \"Whoo\"",
+                "You shot yo' shot and it sounded like \"Coo\"",
+                "Lookin' at the stars, what a nice view",
+                "Where the gummies at? Tryna catch a vibe with you",
+                "",
+                "Ayy, comin' through the spot with my icy girls",
+                "Red lips, Birkin bag in the newest Manolos",
+                "All my baddies get the bag, I ain't fuckin' with dodos",
+                "Baddest bitch online, but I look better than my photos",
+                "",
+                "Uh, put yo' lighters up",
+                "Throwing dirt on my name, make 'em bite the dust",
+                "Yeah, it's Diamonte with the diamond cuts",
+                "We can go all night, we ain't gotta rush, ayy",
+                "",
+                "We can hit the lights, make the wrongs turn right",
+                "We can smash the clock, make the pop go rock",
+                "With the love this deep, we don't need no sleep",
+                "And it feels like we could do this all night",
+                "",
+                "We could do this all night",
+                "Yeah, everything is alright",
+                "We've got the keys to open paradise, yeah, paradise",
+                "It feels like we could do this all night",
+                "",
+                "We could do this all night",
+                "",
+                "come on, baby, we can hit the lights, make the wrongs turn right",
+                "We can smash the clock, make the pop go rock",
+                "With the love this deep, we don't need no sleep",
+                "And it feels like we could do this all night",
+                "",
+                "We could do this all night (we could do this all night)",
+                "Yeah, everything is alright",
+                "We've got the keys to open paradise, yeah, paradise",
+                "It feels like we could do this all night"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4c018def1a12",
+          "title": "IVE SWITCH",
+          "year": "2024",
+          "cover": "images/albums/4c018def1a12-cad8b5.webp",
+          "mbid": "fb62df2d-56bb-44c1-accc-c725123286f6",
+          "songs": [
+            {
+              "id": "e296e6399908",
+              "title": "해야 (HEYA)",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "a55ad690d28e",
+              "title": "Accendio",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "92c1380d6622",
+              "title": "Blue Heart",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "5926bca3e0d5",
+              "title": "Ice Queen",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "a1e1dcac1f0d",
+              "title": "WOW",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "a8d9844d7f1f",
+              "title": "RESET",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        },
+        {
+          "id": "27c2473f9039",
+          "title": "SUMMER FESTA",
+          "year": "2024",
+          "cover": "images/albums/27c2473f9039-654544.webp",
+          "mbid": "41397c7b-b20d-421f-9df7-075324cb5dba",
+          "songs": [
+            {
+              "id": "4f9beb86c888",
+              "title": "SUMMER FESTA",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        },
+        {
+          "id": "adf71c8f08f9",
+          "title": "ALIVE",
+          "year": "2024",
+          "cover": "images/albums/adf71c8f08f9-c0aef0.webp",
+          "mbid": "66a96064-6d1e-4521-9010-b32d28575879",
+          "songs": [
+            {
+              "id": "49e3b7b3b55f",
+              "title": "CRUSH",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "8b9d2622c09a",
+              "title": "Will",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "5f406c08316a",
+              "title": "I AM -Japanese ver.-",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "26521fd2c34c",
+              "title": "Off The Record -Japanese ver.-",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "a9fda7df27a8",
+              "title": "Baddie -Japanese ver.-",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        },
+        {
+          "id": "a56bdcfec7ab",
+          "title": "Supernova Love",
+          "year": "2024",
+          "cover": "images/albums/a56bdcfec7ab-02ce69.webp",
+          "mbid": "63c9714d-d084-4567-8b98-43796a59e2c3",
+          "songs": [
+            {
+              "id": "82d475b4f88f",
+              "title": "Supernova Love",
+              "romanisation": [],
+              "english": [
+                "Oh, babe, I need that kind of love",
+                "A supernova glowin' the dark",
+                "Forever I wished upon a star",
+                "Then you came over",
+                "Occupied my heart, occupied my heart",
+                "",
+                "Touch my body, skin on skin",
+                "Gimme every little bit of your love",
+                "Don't you hold back on me, go all in",
+                "I've been waiting for this moment too long",
+                "",
+                "One taste and I'm fallin' deep",
+                "Caught up in your energy",
+                "Never let me go",
+                "",
+                "Oh, babe, I need that kind of love",
+                "A supernova glowin' the dark",
+                "Forever I wished upon a star",
+                "Then you came over",
+                "Occupied my heart, occupied my heart",
+                "",
+                "Dee-la-dee-la, da-dee-da-dee-da",
+                "La-dee-la-dee-la, la-dee-la-dee-la",
+                "Dee-la-dee-da, la-dee-la-dee-la",
+                "Da-dee-da-dee-da, la-dee-la-dee-la (la-dee-la-dee-da)",
+                "(Oh, babe, I)",
+                "",
+                "Got me how you want me, lose or win",
+                "Giving every little bit of my trust",
+                "Take me to the stars on paper wings",
+                "And we'll fly until we reach the sun (ooh)",
+                "",
+                "One kiss and I'm in a dream",
+                "I'm lost in your melody",
+                "Oh, it feels like heaven when you take it slow",
+                "One taste and I'm fallin' deep",
+                "Caught up in your energy",
+                "Never let me go",
+                "",
+                "Oh, babe, I need that kind of love",
+                "A supernova glowin' the dark",
+                "Forever I wished upon a star",
+                "Then you came over",
+                "Occupied my heart, occupied my heart",
+                "",
+                "Every time I look in your eyes",
+                "I see a million stars collide",
+                "It's only you that I see in the sky",
+                "When I pray to the heavens at night, you the light",
+                "Supernova love, never give it up in your heart",
+                "Give me that love, give me that heart, yeah",
+                "Through the dark, you the light, you the love",
+                "You're the super, super, supernova love",
+                "",
+                "Give me your love, give me the stars",
+                "Baby, come on, occupy my heart",
+                "Give your love, give me the stars",
+                "Baby, come on, occupy my heart",
+                "",
+                "Oh, babe (oh), I need that kind of love",
+                "A supernova glowin' the dark",
+                "Forever I wished upon a star",
+                "Then you came over",
+                "Occupied my heart, occupied my heart",
+                "",
+                "La-la-la-la-la-la, la-la-la-la-la-la (supernova)",
+                "La-la-la-la-la-la, la-la-la, a supernova",
+                "La-la-la-la-la-la, la-la-la-la-la-la (supernova)",
+                "La-la-la-la-la-la, la-la-la, a supernova"
+              ]
+            },
+            {
+              "id": "8a412af9bb70",
+              "title": "Supernova Love (extended mix)",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        },
+        {
+          "id": "46517713a41e",
+          "title": "IVE EMPATHY",
+          "year": "2025",
+          "cover": "images/albums/46517713a41e-d09bd2.webp",
+          "mbid": "41acc8d9-e4de-4191-a989-7c89faf93758",
+          "songs": [
+            {
+              "id": "196a76229e85",
+              "title": "REBEL HEART",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "b23abe34bd17",
+              "title": "FLU",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "83474567e18a",
+              "title": "You Wanna Cry",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "85ea36cda52b",
+              "title": "Thank U",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "928700069dac",
+              "title": "ATTITUDE",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "5d7566fb94e3",
+              "title": "TKO",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        },
+        {
+          "id": "e3e33f43b769",
+          "title": "Be Alright",
+          "year": "2025",
+          "cover": "images/albums/e3e33f43b769-ab7337.webp",
+          "mbid": "0708670e-6748-4316-85dc-184cf31d6e2d",
+          "songs": [
+            {
+              "id": "61b06a0f8638",
+              "title": "Be Alright",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "c6ae194a9be7",
+              "title": "DARE ME",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "766e947362aa",
+              "title": "Accendio (Japanese version)",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "ca7024f39d47",
+              "title": "Blue Heart (Japanese version)",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "78685843ca8f",
+              "title": "WOW (Japanese version)",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        },
+        {
+          "id": "beab1a002471",
+          "title": "IVE SECRET",
+          "year": "2025",
+          "cover": "images/albums/beab1a002471-e47440.webp",
+          "mbid": "70c49314-31c5-440e-bdbe-b28319ebc546",
+          "songs": [
+            {
+              "id": "e610f018e50b",
+              "title": "XOXZ",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "d40c81517f19",
+              "title": "Wild Bird",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "eb8b274561d1",
+              "title": "Dear, My Feelings",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "49deb47ae891",
+              "title": "GOTCHA (Baddest Eros)",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "3bdeec9b9063",
+              "title": "삐빅 (♥beats)",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "dc998b444f3a",
+              "title": "Midnight Kiss",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        },
+        {
+          "id": "0526d04d105a",
+          "title": "REVIVE+",
+          "year": "2026",
+          "cover": "images/albums/0526d04d105a-9757c9.webp",
+          "mbid": "5a37b657-9f1d-4bce-b85f-9b1f5b72feca",
+          "songs": [
+            {
+              "id": "bf4340caaaae",
+              "title": "BLACKHOLE",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "e0351f0acdf6",
+              "title": "BANG BANG",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "47f8c86e50ee",
+              "title": "숨바꼭질 (Hush)",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "83631a538860",
+              "title": "악성코드 (Stuck in Your Head)",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "79847f836320",
+              "title": "Fireworks",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "3ef9f17b91cf",
+              "title": "HOT COFFEE",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "4d37b6c5da40",
+              "title": "8",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "790f6547c71b",
+              "title": "Odd",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "ed84a859ca94",
+              "title": "Super ICY",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "3beaa51b1dd6",
+              "title": "Unreal",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "507664bf5ad4",
+              "title": "In Your Heart",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "800c0b6d5dc7",
+              "title": "Force",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        },
+        {
+          "id": "5ac61b3c0738",
+          "title": "LUCID DREAM",
+          "year": "2026",
+          "cover": "images/albums/5ac61b3c0738-ecb012.webp",
+          "mbid": "6e3cc97c-db4b-4ede-9766-4974ea9696fe",
+          "songs": [
+            {
+              "id": "ebbd3293e31b",
+              "title": "LUCID DREAM",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "bd61dc1124a4",
+              "title": "Fashion",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "25cdfa260762",
+              "title": "JIGSAW",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "bbc585b25af8",
+              "title": "REBEL HEART -Japanese ver.-",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "2e129a420369",
+              "title": "ATTITUDE -Japanese ver.-",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "027bc0c97a4f",
+              "title": "Thank U -Japanese ver.-",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        },
+        {
+          "id": "a871e324c506",
+          "title": "Looks Can Kill",
+          "year": "2026",
+          "cover": "images/albums/a871e324c506-03f538.webp",
+          "mbid": "01ac39b1-0fd9-4878-9fdf-f5949bf11e2c",
+          "songs": [
+            {
+              "id": "2c1935ffcc22",
+              "title": "Looks Can Kill",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "4847c1348053",
+              "title": "Mirror Mirror",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "34d3ed2888da",
+              "title": "SNAKESKIN",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "6a5b242b01f0",
+              "title": "CRUMBS",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "9a6fa6de2adf",
+              "title": "Girls Girls Girls",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "6050ae3ce6c9",
+              "title": "Glow Motion",
+              "romanisation": [],
+              "english": []
             }
           ]
         }

@@ -4579,6 +4579,191 @@
           ]
         }
       ]
+    },
+    {
+      "id": "407fc8611fe8",
+      "name": "YUQI",
+      "color": "#10b981",
+      "mbid": "e7385b1f-6356-45e0-ae5e-f690f19ec508",
+      "image": "images/groups/407fc8611fe8-610c27.webp",
+      "imageCredit": "",
+      "imageSource": "",
+      "albums": [
+        {
+          "id": "bb65f8436c0c",
+          "title": "YUQ1",
+          "year": "2024",
+          "cover": "images/albums/bb65f8436c0c-1b6a07.webp",
+          "mbid": "63a3156f-5c3a-445b-9c2b-f3d74cbcb17e",
+          "songs": [
+            {
+              "id": "eecfc87d91cd",
+              "title": "FREAK",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "e4bed51bd533",
+              "title": "My Way",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "883960311a13",
+              "title": "Drink It Up",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "9f53a9a82560",
+              "title": "Red Rover",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "4396650e4aaa",
+              "title": "On Clap",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "5ab99e5f43f3",
+              "title": "Everytime",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "d392d3e06d0c",
+              "title": "Could It Be",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        },
+        {
+          "id": "9adc47ebb42d",
+          "title": "Radio (Dum‐Dum)",
+          "year": "2025",
+          "cover": "images/albums/9adc47ebb42d-694d50.webp",
+          "mbid": "d82ffce0-5c54-478e-879f-21bc8fc40b8f",
+          "songs": [
+            {
+              "id": "f55170f3b539",
+              "title": "Radio (Dum‐Dum)",
+              "romanisation": [],
+              "english": [
+                "Hello?",
+                "I'm not sorry that I had to let you go",
+                "There's things that you should need to know",
+                "Listen",
+                "",
+                "I used to date a rock boy and he stole my heart",
+                "Had me rolling in the deep so bad",
+                "Anywhere he'd go, you know I'd go",
+                "Promised me forever seven days of the week",
+                "But he was too busy getting down in the sheets",
+                "I used to date a rock boy 'til he broke my heart, 'eart, 'eart",
+                "",
+                "He tried so hard to win me back over",
+                "With a couple melodies",
+                "Had to let him know that he can't play me",
+                "",
+                "Oh, there's this boy, that I know",
+                "He made my heart beat like a radio",
+                "It used to go, dum-dum, da-da-da-da-dum",
+                "Da-da-da-da-dum, da-da-da-dum",
+                "",
+                "But now I'm fine, so when his songs",
+                "Are playing loud on the radio",
+                "I'm over that, dum-dum, da-da-da-da-dum",
+                "Da-da-da-da-dum, da-da-da-dum",
+                "Mm, mm-mm-mmm",
+                "",
+                "Oh, yeah",
+                "My momma taught me never let nobody",
+                "Treat me any less than I deserve",
+                "I'm not a dummy (trust me)",
+                "He's the one who's begging now",
+                "Miss me 'cause I'm not around",
+                "Guess you only know just what you got when it walks out",
+                "And you best believe",
+                "I'll never give my heart again to somebody like a rock boy",
+                "'Cause he broke my heart, 'eart, 'eart",
+                "",
+                "He tried so hard to win me back over",
+                "With a couple melodies",
+                "Had to let him know that he can't play me",
+                "",
+                "Oh, there's this boy, that I know",
+                "He made my heart beat like a radio",
+                "It used to go, dum-dum, da-da-da-da-dum",
+                "Da-da-da-da-dum, da-da-da-dum",
+                "",
+                "But now I'm fine, so when his songs",
+                "Are playing loud on the radio",
+                "I'm over that, dum-dum, da-da-da-da-dum",
+                "Da-da-da-da-dum, da-da-da-dum",
+                "Mm",
+                "",
+                "Dum-dum, da-da-da-da-dum (on the radio, radio)",
+                "Dum-dum, da-da-da-da (on the radio, oh)",
+                "Dum-dum, da-da-da-da-dum (on the radio, radio)",
+                "Da-da-dum, dee-dum (on the radio, oh)",
+                "",
+                "Dum-dum, da-da-da-da-dum (on the radio, radio)",
+                "Dum-dum, da-da-da-da (on the radio, oh)",
+                "Dum-dum, da-da-da-da-dum, da-da-dum (on the radio, radio)",
+                "My heart no longer sings along"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "69bac0c5f360",
+          "title": "27",
+          "year": "2026",
+          "cover": "images/albums/69bac0c5f360-d477fa.webp",
+          "mbid": "be45b8e0-9186-4a36-8a19-28f5592f4a07",
+          "songs": [
+            {
+              "id": "4865c1cef8ee",
+              "title": "快乐",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "448d3b465a7d",
+              "title": "Chamomile Tea",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "4d443b8af2ef",
+              "title": "I Like You",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "2b8ad13e4b70",
+              "title": "Feels Right",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "401879ca3425",
+              "title": "银河之舞",
+              "romanisation": [],
+              "english": []
+            },
+            {
+              "id": "df09533c245d",
+              "title": "Stay",
+              "romanisation": [],
+              "english": []
+            }
+          ]
+        }
+      ]
     }
   ]
 }
